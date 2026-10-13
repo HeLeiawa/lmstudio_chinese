@@ -1,0 +1,12 @@
+========================================================
+  LM Studio 简体中文补丁  v1.0.0
+========================================================
+  项目链接：https://github.com/HeLeiawa/lmstudio_chinese
+  酷安：https://www.coolapk.com/u/43912900
+  B站：https://space.bilibili.com/397051896
+  开发者：HeLei_awa
+========================================================
+
+LM Studio 目录: K:\LM Studio
+已恢复原始文件（补丁已卸载）: K:\LM Studio\resources\app\.webpack\renderer\main_window.js
+检测到 LM Studio 正在运行，请完全退出（含托盘图标）后重新打开。
