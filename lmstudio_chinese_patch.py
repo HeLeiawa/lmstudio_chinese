@@ -19,7 +19,7 @@ r"""LM Studio 简体中文补丁
 """
 import sys, os, json, shutil, subprocess
 
-VERSION = '1.1.0'
+VERSION = '1.0.0'
 BACKUP_SUFFIX = '.zh-patch-backup'
 
 PATCH_DATA = json.loads(
